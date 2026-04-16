@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Zaid
 
-🚀 CS Student | Exploring **AI, RAG, and LLM Fine-Tuning** 
+🚀 CS Student | Exploring **AI/ML, RAG, and backend development** 
 
 ---
 
